@@ -1,5 +1,7 @@
 # MERN_TODO_1
 
+<img src = "https://lntedutech.com/wp-content/uploads/2022/05/MERN.png" alt = "mern stack logo" />
+
 
 ## API'S
 
